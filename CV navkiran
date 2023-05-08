@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> NAVKIRAN KAUR</title>
+</head>
+<body>
+    <table cellspacing="20" style="border-style:dotted;">
+    <tr>
+        <td><img src="./WhatsApp Image 2023-05-06 at 10.39.54 PM.jpeg" width="100%" Profile Photo></td>
+</td><td><h1> <font face="Berlin sans FB" color="Blue">NAVKIRAN KAUR</font></h1>
+<p> Student of <a href= "https://www.gndec.ac.in/"> GNDEC</a></p>
+<p>Gazing into the World of Technology😍</p></td></tr></table>
+<h4> <font face="mistral" size="30" color="voilet"> Think Like A Proton And Stay Positive🌈</font></h4>
+<hr>
+<h2><font face="algerian" color="Red">EDUCATION</font>  </h2>
+<table border="2">
+    <tr>
+        <td><ul style="list-style-type:circle">
+    <li> Higher Education- Guru Nanak International Public School</li>
+    <li> Bachelors- Guru Nanak Dev Engineering College</li><br>
+</ul></td></tr>
+</table>
+<hr>
+    <h2><font face="algerian" color="Red"> HOBBIES</font></h2>
+    <table border="2">
+        <tr>
+        <td><ul style="list-style-type:circle">
+        <li> Reading Books</li>
+        <li> Travelling</li></td></ul>
+        </tr>
+        </table>
+        <br>
+<hr>
+    </ul>
+    
+    <h2> <font face="algerian" color="Red">SKILLS</font></h2>
+    <table border="2">
+    <ul style="list-style-type:circle">
+        <tr>
+            <td>
+        <li> Gathering Knowledge</li>
+        <li> Exploring</li>
+        <li> Creativity</li>
+        <li> Being Social</li>
+        </td></tr>
+    </ul>
+        </table>
+
+
+</body>
+</html>
+
+
